@@ -1,0 +1,8 @@
+pymongo
+motor
+httpx
+coloredlogs
+asyncio
+logging
+requests
+selenium

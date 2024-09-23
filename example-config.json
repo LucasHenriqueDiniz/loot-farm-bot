@@ -1,0 +1,38 @@
+{
+  "mongo_uri": "",
+  "database_name": "backpack-database",
+  "collection_name": "listings",
+
+  "bptf_api_key": "",
+  "bptf_token": "",
+
+  "ignored_items": ["Mann Co. Supply Crate Key", "Refined Metal", "Reclaimed Metal", "Scrap Metal"],
+
+  "steam_password": "",
+  "steam_username": "",
+  "steam_trade_url": "",
+
+  "refresh_interval": 300,
+  "risk_threshold": 0.1,
+  "profit_threshold": 0.1,
+
+  "loot_farm_key_sell_value": 2.56,
+  "loot_farm_key_value_date": "18/08/2024",
+  "loot_farm_refined_sell_value": 0.04,
+  "loot_farm_refined_value_date": "18/08/2024",
+  "print_events": 3,
+
+  "dont_withdrawn": false,
+  "request_login": true,
+
+  "complete_value_with_what_items": ["Mann Co. Supply Crate Key", "Refined Metal", "Reclaimed Metal", "Scrap Metal"],
+  "max_item_price": 0,
+
+  "start_window_position": [2000, 0],
+
+  "discord_webhook_url": "",
+  "discord_webhook_avatar_url": "",
+  "discord_webhook_username": "",
+  "discord_alert_mention_user_ids": [""],
+  "bot_version": "0.1.0"
+}
